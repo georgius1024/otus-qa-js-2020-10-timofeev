@@ -12,3 +12,7 @@ This is a second change
 * f2
 * f3
 
+This line will be approved bu colleagues
+
+
+
